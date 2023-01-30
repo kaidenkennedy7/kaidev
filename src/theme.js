@@ -20,9 +20,9 @@ export const lightTheme = {
     sunMoonScroll: '#2f3e46',
     sunMoonHover: '#52796F',
   
-    // hamburger: '#2f3e46',
-    // hamburgerStart: '#CAD2C5',
-    // hamburgerHover: '#52796F',
+    hamburger: '#2f3e46',
+    hamburgerStart: '#CAD2C5',
+    hamburgerHover: '#52796F',
   
     card: '#EBEBEB',
     cardButton: '#CAD2C5',
@@ -59,9 +59,9 @@ export const lightTheme = {
     sunMoonScroll: '#CAD2C5',
     sunMoonHover: '#52796F',
   
-    // hamburger: '#D7DADC',
-    // hamburgerStart: '#52796f',
-    // hamburgerHover: '#9FB1AD',
+    hamburger: '#D7DADC',
+    hamburgerStart: '#52796f',
+    hamburgerHover: '#9FB1AD',
   
     card: '#354F52',
     cardButton: '#2F3E46',
