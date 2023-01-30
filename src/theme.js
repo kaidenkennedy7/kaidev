@@ -59,7 +59,7 @@ export const lightTheme = {
     sunMoonScroll: '#CAD2C5',
     sunMoonHover: '#52796F',
   
-    hamburger: '#D7DADC',
+    hamburger: '#CAD2C5',
     hamburgerStart: '#52796f',
     hamburgerHover: '#9FB1AD',
   
